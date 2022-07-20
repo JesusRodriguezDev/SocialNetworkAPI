@@ -1,0 +1,24 @@
+{
+  "name": "socialnetworkapi",
+  "version": "1.0.0",
+  "description": "social network api backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusRodriguezDev/SocialNetworkAPI.git"
+  },
+  "author": "Jesus Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusRodriguezDev/SocialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/JesusRodriguezDev/SocialNetworkAPI#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1",
+    "nodemon": "^2.0.18"
+  }
+}
